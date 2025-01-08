@@ -4,7 +4,7 @@ Simple module for making carousel slider in JS
 # Technologies i used
 - HTML
 - CSS
-- JS
+- JavaScript
 
 # Live link
 https://whateverrpl.github.io/carousel-slider/
