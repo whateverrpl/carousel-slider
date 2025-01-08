@@ -1,7 +1,7 @@
 # carousel-slider
 Simple module for making carousel slider in JS
 
-# Link live
+# Live link
 https://whateverrpl.github.io/carousel-slider/
 
 # Screenshots
